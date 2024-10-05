@@ -13,42 +13,42 @@ https://docs.google.com/forms/d/e/1FAIpQLScAaXjJJP2RKKTfvS_vOIM-x2yUVjUL7ypL1diU
 De acordo com as diretrizes de refatoração dadas em aula, aplique no código do repositório.
 Caso haja necessidade, pode transformar o código para stack de sua preferência
 
-M3S06/Aula2/Exercicios/Exercicio1.cs at master · FullStack-Education/M3S06
+[M3S06/Aula2/Exercicios/Exercicio1.cs](https://github.com/FullStack-Education/M3S06/blob/master/Aula2/Exercicios/Exercicio1.cs)
 
 ### M3S06 | Ex 03 - Refatoração
 
 De acordo com as diretrizes de refatoração dadas em aula, aplique no código do repositório.
 Caso haja necessidade, pode transformar o código para stack de sua preferência
 
-M3S06/Aula2/Exercicios/Exercicio2.cs at master · FullStack-Education/M3S06
+[M3S06/Aula2/Exercicios/Exercicio2.cs](https://github.com/FullStack-Education/M3S06/blob/master/Aula2/Exercicios/Exercicio2.cs)
 
 ### M3S06 | Ex 04 - Refatoração
 
 De acordo com as diretrizes de refatoração dadas em aula, aplique no código do repositório.
 Caso haja necessidade, pode transformar o código para stack de sua preferência.
 
-M3S06/Aula2/Exercicios/Exercicio3.cs at master · FullStack-Education/M3S06
+[M3S06/Aula2/Exercicios/Exercicio3.cs](https://github.com/FullStack-Education/M3S06/blob/master/Aula2/Exercicios/Exercicio3.cs)
 
 ### M3S06 | Ex 05 - SOLID
 
 De acordo com as diretrizes de SOLID dadas em aula, aplique no código do repositório a correção da violação do princípio de responsabilidade única.
 Caso haja necessidade, pode transformar o código para stack de sua preferência.
 
-M3S06/Aula3/Exercicios/SRP.cs at master · FullStack-Education/M3S06
+[M3S06/Aula3/Exercicios/SRP.cs](https://github.com/FullStack-Education/M3S06/blob/master/Aula3/Exercicios/SRP.cs)
 
 ### M3S06 | Ex 06 - SOLID
 
 De acordo com as diretrizes de SOLID dadas em aula, aplique no código do repositório a correção da violação do princípio de aberto/fechado.
 Caso haja necessidade, pode transformar o código para stack de sua preferência.
 
-https://github.com/FullStack-Education/M3S06/blob/master/Aula3/Exercicios/OCP.cs
+[M3S06/Aula3/Exercicios/OCP.cs](https://github.com/FullStack-Education/M3S06/blob/master/Aula3/Exercicios/OCP.cs)
 
 ### M3S06 | Ex 07 - SOLID
 
 De acordo com as diretrizes de SOLID dadas em aula, aplique no código do repositório a correção da violação do princípio de Liskov.
 Caso haja necessidade, pode transformar o código para stack de sua preferência.
 
-M3S06/Aula3/Exercicios/LSP.cs at master · FullStack-Education/M3S06
+[M3S06/Aula3/Exercicios/LSP.cs](https://github.com/FullStack-Education/M3S06/blob/master/Aula3/Exercicios/LSP.cs)
 
 ### M3S06 | Ex 08 - Design Pattern
 
