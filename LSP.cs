@@ -1,6 +1,6 @@
 namespace Aula3.Exercicios
 {
-public class LSP
+  public class LSP
   {
     //o código da classe abaixo está violando o principio de Liskov. Reescreva aplicando a correção
   }
